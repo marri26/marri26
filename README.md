@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @marri26
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, R and Python
-- 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 How to reach me lindkedin profile - https://www.linkedin.com/in/marri-manoj-kumar-798385168/
 
-<!---
-marri26/marri26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### About Me
+
+I am a Senior Data Analyst with over 2 years of experience in the edutech industry. My expertise lies in leveraging data to drive strategic decisions and insights. I am proficient in SQL, Python, and Looker Studio, and have a strong foundation in machine learning.
+
+### Skills
+
+- **SQL**: Advanced querying, database management, and optimization
+- **Python**: Data manipulation, analysis, and visualization with libraries such as Pandas, NumPy, and Matplotlib
+- **Looker Studio**: Building and optimizing data reports and dashboards for actionable insights
+- **Machine Learning**: Developing predictive models and implementing machine learning algorithms
+
+
+I am passionate about using data to solve complex problems and am always eager to learn and apply new technologies in the field of data science and analytics.
